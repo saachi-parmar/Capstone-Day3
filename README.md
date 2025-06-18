@@ -1,6 +1,6 @@
 # Capstone-Day3
 
-## Data Structures in Python
+## 📘 Data Structures in Python
 
 This repository demonstrates key data structure implementations and algorithms in Python.  
 It includes **sorting algorithms**, **stack and queue operations**, and **binary tree traversal** using classes and recursion.
